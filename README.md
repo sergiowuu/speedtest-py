@@ -1,5 +1,7 @@
 # SpeedTest com Streamlit
 
+![Badge de Tecnologias](https://skillicons.dev/icons?i=py)
+
 Aplicativo web construído com Python e Streamlit para medir a velocidade da sua conexão de internet em tempo real.
 
 ## 🚀 Demonstração
